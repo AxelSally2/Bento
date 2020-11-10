@@ -4,10 +4,10 @@ var hour = today.getHours();
 console.log(today);
 
 // Here you can change your name
-var name = 'SallSa';
+var name = 'Sally';
 
 // Here you can change your greetings
-var gree1 = 'Go to Sleep! \n';
+var gree1 = 'Go to Sleep! ';
 var gree2 = 'Hello there ! How are you today ? ';
 var gree3 = 'Good morning! ';
 var gree4 = 'Good afternoon, ';
