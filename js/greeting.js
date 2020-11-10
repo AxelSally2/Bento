@@ -11,9 +11,7 @@ var gree1 = 'Go to Sleep! ';
 var gree2 = 'Hello there ! How are you today ? ';
 var gree3 = 'Good morning! ';
 var gree4 = 'Good afternoon, ';
-var gree5 = 'Good evening, ';
-var gree6 = 'Good evening, ';
-var gree7 = 'Good evening, ';
+var gree5 = '\nGood evening, ';
 
 // Define the hours of the greetings
 if (hour >= 23 && hour < 5) {
