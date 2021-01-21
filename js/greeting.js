@@ -1,17 +1,17 @@
 // Get the hour
-var today = new Date();
-var hour = today.getHours();
+const currentDay = new Date();
+const hour = currentDay.getHours();
 console.log(today);
 
 // Here you can change your name
-var name = 'Sally';
+const name = 'Sally';
 
 // Here you can change your greetings
-var gree1 = 'Go to Sleep! ';
-var gree2 = 'Hello there ! How are you today ? ';
-var gree3 = 'Good morning! ';
-var gree4 = 'Good afternoon, ';
-var gree5 = 'Good evening, ';
+const gree1 = 'Go to Sleep! ';
+const gree2 = 'Hello there ! How are you today ? ';
+const gree3 = 'Good morning! ';
+const gree4 = 'Good afternoon, ';
+const gree5 = 'Good evening, ';
 
 // Define the hours of the greetings
 if (hour >= 0 && hour < 6) {
